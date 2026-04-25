@@ -49,7 +49,7 @@ python pathfinding_visualizer.py [window_width] [number_of_rows]
 * **B Key**: Run Breadth-First Search.
 * **D Key**: Run Depth-First Search.
 * **J Key**: Run Dijkstra's Algorithm.
-* **R Key**: Reset the grid (clears the paths but keeps the start/end points and barriers).
+* **R Key**: Reset the grid (clears barriers and paths but keeps the start/end points).
 * **C Key**: Clear the grid completely (removes everything).
 
 ## Color Legend
